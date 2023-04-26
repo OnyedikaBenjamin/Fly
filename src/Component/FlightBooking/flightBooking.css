@@ -1,0 +1,193 @@
+.flight_booking{
+    background-color: #00AFEF;
+    width:90%;
+    margin:0 auto;
+}
+.flight_booking_text{
+    background-color: white;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:2% 4%;
+}
+.flight_booking_text p{
+    font-size: 13px;
+}
+.flight{
+    display: flex;
+    align-items: center;
+}
+.check{
+    display: flex;
+    align-items: center;
+}
+.flight p{
+    font-weight: bold;
+    margin-left:5px;
+}
+.check{
+    display: flex;
+    align-items: center;
+}
+.check p{
+    margin-left:5px;
+}
+.check .ch{
+    color: #00AFEF;
+}
+.flight_booking_field{
+    padding:2%;
+}
+.form_one{
+    color:white;
+    width:95%;
+}
+.form_one_option{
+    width:40%;
+    justify-content: space-between;
+    display:flex;
+    align-items: center;
+}
+.round{
+    display:flex;
+    align-items: center;
+}
+.form_one_option select{
+    color:white;
+    margin-left:5px;
+    border:none;
+    background-color: transparent;
+    font-weight: bold;
+}
+.form_one_option select option{
+    color:black;
+}
+.user_number {
+    display:flex;
+    align-items: center;
+}
+.user_number .total{
+    width:70px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.user_number .num{
+    position:absolute;
+    background-color: white;
+    color:#8a8a8a;
+    width:18%;
+    padding:1%;
+    border-radius:5px;
+    left: 270px;
+    margin-top:20px;
+}
+.user_number .num:hover{
+    cursor:pointer;
+}
+.hidenum{
+    display:none;
+}
+.user_number .num .amount{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:2% 0%;
+    font-size: 12px;
+    font-weight: bold;
+}
+.counter{
+    display: flex;
+    width:40%;
+    justify-content: space-between;
+    align-items: center;
+}
+.num .btnn{
+    margin:6% 0%;
+    text-align: right;
+}
+.num .btnn button{
+    background-color: #000000;
+    border:none;
+    padding:2% 5%;
+    color:white;
+    font-weight: bold;
+    border-radius: 3px;
+}
+.num .btnn button:first-child{
+    background-color:transparent;
+    margin-right: 10px;
+    color:#000000;
+    border:1px solid #000000;
+}
+.form_two{
+    display: flex;
+    margin: 2% auto 0% auto;
+}
+.from{
+    background-color: white;
+    display:flex;
+    align-items: center;
+    margin:0px 5px;
+    padding:0.5% 1%;
+    width:30%;
+    border-radius: 5px;
+}
+.from_input{
+    margin-left: 10px;
+}
+.from_input input{
+    padding:5% 0%;
+    border:none;
+}
+.from_input p{
+    font-size: 12px;
+}
+.er{
+    color:red;
+}
+.plane{
+    font-size: 30px;
+    color:rgb(219, 219, 219);
+}
+.current_location{
+    position: absolute;
+    background-color: white;
+    margin-top: 10px;
+    padding: 2%;
+    width:40%;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.171);
+}
+.current_location:hover{
+    cursor: pointer;
+}
+.hide_location{
+    display:none;
+}
+.cities{
+    display:flex;
+    justify-content: space-between;
+}
+.cities p{
+    background-color: rgb(247, 247, 247);
+    padding:5px 20px;
+}
+.src_flight_btn{
+    background-color: black;
+    width:35%;
+    color:white;
+    font-weight: bold;
+    border:none;
+    border-radius: 5px;
+}
+
+/* EDIT FLIGHT STYLES */
+.XBtn{
+    position:relative;
+    left:720px;
+    width:100px;
+    border:none;
+    font-weight: bold;
+    color:orangered;
+    padding:1% 0%;
+}

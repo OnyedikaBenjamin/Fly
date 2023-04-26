@@ -1,0 +1,89 @@
+.signup {
+  background-color: #00AFEF;
+  padding-bottom: 20px;
+}
+.signup_text h1 {
+  padding-bottom: 60px;
+  padding-top: 10px;
+  color: black;
+  text-align: center;
+}
+.signup_text p {
+  text-align: center;
+}
+.signup_text h3 {
+  text-align: center;
+  padding-top: 25px;
+  font-weight: bold;
+  font-family: poppins;
+}
+.signup_text p a {
+  text-decoration: none;
+}
+.signup_form {
+  background-color: white;
+  width: 35%;
+  padding: 20px 10px;
+  margin: 30px auto 0px auto;
+  border-radius: 30px;
+}
+.signup_text p {
+  color:n black;
+  font-size: 13px;
+  
+}
+.signup_form input {
+  padding: 8px 10px 10px 5px;
+  width: 60%;
+  border: none;
+  margin-left: 60px;
+  margin-bottom: 30px;
+  margin-top: 15px;
+  border: 1px solid #eee;
+  border-top-style: none;
+  border-right-style: none;
+  border-left-style: none;
+  border-bottom-style: groove;
+}
+#selects {
+  padding: 8px 10px 10px 5px;
+  border: none;
+  width: 60%;
+  margin-left: 60px;
+  margin-bottom: 30px;
+  border: 1px solid #eee;
+  border-top-style: none;
+  border-right-style: none;
+  border-left-style: none;
+  border-bottom-style: groove;
+}
+.signup_form h3 {
+  color:#00AFEF;
+}
+
+span {
+  color: rgb(0, 217, 255);
+}
+.btn {
+  color: white;
+  margin-left: 70px;
+  background-color:#00AFEF;
+  padding: 10px;
+  width: 60%;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: none;
+}
+.email{
+  color: red;
+  margin-left: 140px;
+  font-size: 15px;
+  margin-top: 2px;
+}
+.pass{
+ color: red;
+ margin-top: 2px;
+ margin-left: 60px;
+ font-size: 15px;
+}

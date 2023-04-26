@@ -1,0 +1,45 @@
+.news_letter{
+    background-color: #00AFEF;
+}
+.news_letter_content{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    padding:5% 0%;
+    width:70%;
+    margin:0 auto;
+}
+.news_letter_text{
+    width: 50%;
+    display: flex;
+    align-items: center;
+}
+.speaker{
+    color:white;
+    font-size: 100px;
+    margin-right:10px;
+}
+.content{
+    width:50%;
+}
+.content p{
+    font-size: 10px;
+    font-weight: bold;
+}
+.news_letter_field{
+    width: 70%;
+}
+.news_letter_field input{
+    width:50%;
+    padding:4%;
+    border:none;
+}
+.news_letter_field button{
+    background-color: black;
+    color:white;
+    font-weight: bold;
+    margin-left: 5px;
+    width:30%;
+    padding:4%;
+    border:none;
+}

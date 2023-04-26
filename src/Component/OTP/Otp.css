@@ -1,0 +1,40 @@
+.otp_container {
+  background-color: #00afef;
+  padding-bottom: 20px;
+  height: 70vh;
+}
+.otp_text h1 {
+  padding-bottom: 60px;
+  padding-top: 10px;
+  color: black;
+  text-align: center;
+}
+.otp_text h3 {
+  text-align: center;
+  padding-top: 25px;
+  font-weight: bold;
+  font-family: poppins;
+}
+.input_form {
+  margin-left: 480px;
+  padding: 30px;
+  height: 2vh;
+  display: flex;
+}
+.input_form input {
+  margin-left: 30px;
+  padding: 10px;
+  height: 2vh;
+  width: 2%;
+  display: flex;
+}
+.btn_otp {
+  margin-left: 530px;
+  width: 20%;
+  padding: 10px;
+  margin-top: 45px;
+  background-color: white;
+  color: #00afef;
+  border-radius: 5px;
+  border: none;
+}

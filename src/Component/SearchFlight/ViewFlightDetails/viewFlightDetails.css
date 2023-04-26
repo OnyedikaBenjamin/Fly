@@ -1,0 +1,67 @@
+/* h4{
+    display: inline;
+}
+p{
+    display: inline;
+} */
+.vFlight{
+    color:white;
+    background-color:#00AFEF;
+}
+.vflight_header{
+    background-color: black;
+    display:flex;
+    justify-content: space-between;
+    align-items: center; 
+    padding:12% 3%;
+}
+
+.XxBtn{
+    background-color:transparent;
+    width:30px;
+    border:none;
+    text-shadow: 0px 0px 10px red;
+}
+.fare_total{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:3%;
+}
+.air_note{
+    padding:3%;
+    display: flex;
+    justify-content: space-between;
+}
+.air_note p{
+    font-size:18px;
+    font-weight: 500;
+}
+.air_details{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:3%;
+}
+.air_details p{
+    padding-top: 2%;
+    font-weight: bold;
+}
+.air_flight_flow{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.air_flight_flow p{
+    font-size:12px;
+    padding:10% 0%;
+}
+.book_now{
+    width:100%;
+    padding:5% 0%;
+    border:none;
+    background-color: black;
+    color:white;
+    font-weight: bold;
+}

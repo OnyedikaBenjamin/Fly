@@ -1,0 +1,95 @@
+/* .search_flight{
+    padding-bottom: 2%;
+}
+.search_flight_select{
+    background-color:#00AFEF;
+}
+.search_flight_content{
+    display:flex;
+    justify-content: space-between;
+    margin:0 auto;
+    width:90%;
+    color:white;
+    padding:2% 0%;
+    align-items: center;
+}
+.search_fllgth_text{
+    font-weight: bold;
+    font-size:14px;
+    width:80%;
+    display: flex;
+    justify-content:space-between;
+}
+.search_fllgth_text p:first-child{
+    font-size: 10px;
+}
+.total_passenger{
+    width:15%;
+    justify-content: space-between;
+    text-align: center;
+    display:flex;
+}
+.search_flight_content button{
+    background-color: black;
+    width:10%;
+    color:white;
+    font-weight: bold;
+    border:none;
+    border-radius: 5px;
+    padding:1% 0%;
+}
+.air{
+    display: flex;
+}
+.air_lines{
+    font-weight: bold;
+    width:98%;
+    box-sizing: border-box;
+    background:rgb(217, 243, 248);
+    display:flex;
+    margin:0.8% auto 0% auto;
+    padding-left:3%;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.144);
+}
+.air_line_price{
+    background-color: #00AFEF;
+    padding:3% 3%;
+}
+.air_line_price{
+    font-weight: bold;
+    color:white;
+}*/
+
+.air_available_flight{
+    width:100%;
+}
+.air_flight_details{
+    margin:0.5% 0%;
+    width:40%;
+}
+.hideAirDetails{
+    display:none;
+} 
+.air{
+    display: flex;
+}
+.air_available_flight{
+    width: 100%;
+}
+.air_lines{
+    background-color: aqua;
+    margin-top: 1%;
+    padding:3% 1%;
+    display:flex;
+    justify-content: space-between;
+}
+.air_lines button{
+    background-color: black;
+    width:80px;
+    color:white;
+    padding:10px 0px;
+    border:none;
+    border-radius: 5px;
+}

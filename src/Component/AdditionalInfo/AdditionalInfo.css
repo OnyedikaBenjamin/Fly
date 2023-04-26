@@ -1,0 +1,247 @@
+.info {
+  display: flex;
+}
+.info_number {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 15px;
+}
+.info_number ol {
+  width: 170%;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 290px;
+  margin-top: 40px;
+  font-size: 12px;
+}
+.info_text {
+  position: absolute;
+  margin-top: 120px;
+  margin-left: 130px;
+}
+.info_text h5 {
+  opacity: 0.4;
+  margin-top: 5px;
+}
+.info_text h5 {
+  margin-top: 10px;
+  width: 90%;
+  padding: 8px;
+}
+.info_text p {
+  background-color: #ffedc4;
+  font-size: 12px;
+  width: 90%;
+  margin-bottom: 40px;
+  padding: 8px;
+}
+
+.ptext {
+  background-color: #d7e7ff;
+  margin-top: 30px;
+  width: 90%;
+}
+.ptext p {
+  width: 70%;
+  margin-top: 1px;
+  font-size: 12px;
+  background-color: #d7e7ff;
+}
+.info_form {
+  position: absolute;
+  margin-top: 400px;
+  margin-left: 120px;
+}
+.info_form h3 {
+  font-size: 13px;
+  margin-left: 10px;
+}
+.use {
+  background-color: #ffedc4;
+  color: black;
+  border-radius: 8px;
+  margin-left: 5px;
+  width: 51%;
+  font-size: 10px;
+  font-weight: 100;
+}
+.infos_form input {
+  padding: 8px 10px 10px 5px;
+  width: 60%;
+  border: none;
+  margin-left: 10px;
+  margin-bottom: 30px;
+  margin-top: 15px;
+  border: 1px solid #eee;
+  border-top-style: none;
+  border-right-style: none;
+  border-left-style: none;
+  border-bottom-style: groove;
+}
+#select {
+  padding: 8px 10px 10px 5px;
+  border: none;
+  width: 60%;
+  margin-left: 10px;
+  margin-bottom: 30px;
+  border: 1px solid #eee;
+  border-top-style: none;
+  border-right-style: none;
+  border-left-style: none;
+  border-bottom-style: groove;
+}
+.form_one {
+  margin-bottom: 40px;
+}
+.form_two {
+  margin-bottom: 30px;
+  width: 100%;
+}
+.form_two p {
+  font-size: 12px;
+  width: 80%;
+}
+button {
+  padding: 10px;
+  cursor: pointer;
+  border: none;
+}
+.btn1 {
+  margin-right: 20px;
+  background-color: #d6d6d6;
+}
+.btn2 {
+  margin-left: 20px;
+  background-color: #00AFEF;
+}
+.receipt {
+  background-color: #d7e7ff;
+  width: 30%;
+  margin-top: 100px;
+  margin-right: 30px;
+  height: 88vh;
+}
+
+.receipt_form {
+  /* margin-right: 30px; */
+  width: 83%;
+  background-color: white;
+
+  padding: 15px;
+  margin-top:25px ;
+  margin-bottom: 15px;
+  margin-right: 15px;
+  margin-left: 15px;
+  border-radius: 10px;
+
+}
+.receipt_form h1 {
+  font-size: 11px;
+  margin-top: 20px;
+  margin-left: 12px;
+  color: blue;
+}
+.receipt_time {
+  display: flex;
+  width: 60%;
+  justify-content: space-between;
+  margin-left: 9px;
+  margin-top: 10px;
+}
+.receipt_time p {
+  width: 30%;
+  font-size: 12px;
+  padding: 3px;
+  margin-right: 3px;
+}
+.receipt_time h5 {
+  margin-left: 30px;
+}
+.receipt_destination {
+  display: flex;
+  margin-left: 30px;
+}
+.receipt_destination p {
+  width: 170%;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 20px;
+  margin-top: 20px;
+  font-size: 12px;
+}
+.receipt_breakdown {
+  font-size: 12px;
+  /* margin-top: 30px; */
+  width: 84%;
+  /* margin-left: 30px; */
+  /* width: 83%; */
+  background-color: white;
+
+  padding: 15px;
+  margin-top:25px ;
+  margin-bottom: 15px;
+  margin-right: 5px;
+  margin-left: 15px;
+  border-radius: 10px;
+
+}
+.receipt_breakdown h4 {
+  font-size: 12px;
+  margin-top: 20px;
+  margin-left: 10px;
+  color: blue;
+  width: 100%;
+  padding-bottom: 25px;
+}
+hr {
+  margin-top: 10px;
+  width: 70%;
+  margin-left: 10px;
+  
+}
+.hr1{
+    width: 70%;
+    margin-left: -10px;
+
+}
+.total {
+  display: block;
+  width: 100%;
+  justify-content: space-between;
+  margin-left: 29px;
+  margin-top: 10px;
+  align-items: center;
+}
+.total p {
+  width: 30%;
+  font-size: 12px;
+  padding: 3px;
+  margin-left: -19px;
+}
+.total h5 {
+  margin-left: 190px;
+  margin-bottom: 10px;
+}
+.contact{
+    margin-top: 430px;
+    font-size: 13px;
+    cursor: pointer;
+}
+.contact img {
+  width: 15%;
+  margin-top: 30px;
+  margin: 0 60px;
+  border-radius: 50%;
+  cursor: pointer;
+  transition-duration: 1s;
+}
+a img{
+  cursor: pointer;
+}
+.email{
+  color: red;
+  margin-left: 140px;
+  font-size: 15px;
+  margin-top: 2px;
+}

@@ -1,0 +1,11 @@
+.dashboard{
+    display: flex;
+    background-color:  #00AFEF;
+    width: 30%;
+    height: 100vh;
+}
+.dashboard_right{
+   display: flex;
+   margin-left: 360px;
+   margin-top: 40px;
+}

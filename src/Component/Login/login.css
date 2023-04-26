@@ -1,0 +1,87 @@
+.login {
+  background-color:#00AFEF;
+  padding-bottom: 6.5%;
+  height: 70vh;
+}
+.login_text h1 {
+  padding-bottom: 60px;
+  padding-top: 10px;
+  color: black;
+  text-align: center;
+}
+.login_text p {
+  text-align: center;
+}
+.login_text h3 {
+  text-align: center;
+  padding-top: 25px;
+}
+.login_text p a {
+  text-decoration: none;
+}
+.login_text p {
+  color: black;
+  font-size: 13px;
+  font-weight: bold;
+}
+.login_form {
+  background-color: white;
+  width: 25%;
+  padding: 20px 0px;
+  margin: 30px auto 0px auto;
+  border-radius: 15px;
+}
+.login_form input {
+  padding: 8px 10px 10px 5px;
+  border: none;
+  width: 60%;
+  margin-left: 60px;
+  margin-bottom: 30px;
+  border: 1px solid #eee;
+  border-top-style: none;
+  border-right-style: none;
+  border-left-style: none;
+  border-bottom-style: groove;
+  
+}
+.login_form h3 {
+  color: #00AFEF;
+}
+span {
+  color: #00AFEF;
+}
+.pword p {
+  color: #00AFEF;
+  margin-top: 10px;
+  margin-left: 90px;
+}
+.pword {
+  margin-left: 150px;
+  color:#00AFEF;
+}
+.pword a {
+  text-decoration: none;
+}
+.bt {
+  color: white;
+  margin-left: 50px;
+  background-color: #00AFEF; 
+  padding: 10px;
+  width: 70%;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  border: none;
+}
+.emails{
+  color: red;
+  margin-left: 90px;
+  font-size: 15px;
+  margin-top: 2px;
+}
+.pass{
+ color: red;
+ margin-top: 2px;
+ margin-left: 60px;
+ font-size: 15px;
+}

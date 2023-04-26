@@ -1,0 +1,111 @@
+{
+  "flight": [
+    {
+      "id": 1,
+      "Name": "Delta Airline",
+      "DepartTime": "23:30",
+      "ArriveTime": "25:30",
+      "FromCity": "New York",
+      "ToCity": "Dubai",
+      "Category": "First Class",
+      "Price": "N3,000.00",
+      "IataOrig": "NYC",
+      "IataDest": "DXB",
+      "DepartDate": "11, Oct, 2023",
+      "ArriveDate": "12, Oct, 2023",
+      "note": "hka ekhfwe wef yfy g f f fk vkysvsdv sdv bdvygsdyg hgsdygasgyasdg asg vs vvsad asdgk a  gage ryagryigua yagrfygaifygae ygfygaiyga ygai"
+    },
+    {
+      "id": 2,
+      "Name": "Qater Airways",
+      "DepartTime": "23:30",
+      "ArriveTime": "25:30",
+      "FromCity": "Berlin",
+      "ToCity": "London",
+      "Category": "Premium Economy",
+      "Price": "N4,000.00",
+      "IataOrig": "BER",
+      "IataDest": "LON",
+      "DepartDate": "19, Aug, 2023",
+      "ArriveDate": "11, Aug, 2023",
+      "note": "hka ekhfwe weygasgyasdg asg vs vvsad asdgk a  gage ryagryigua yagrfygaifygae ygfygaiyga ygai"
+    },
+    {
+      "id": 3,
+      "Name": "British Airways",
+      "DepartTime": "23:30",
+      "ArriveTime": "25:30",
+      "FromCity": "Johannesburg",
+      "ToCity": "LONDON",
+      "Category": "Business Class",
+      "Price": "N6,000.00",
+      "IataOrig": "JNB",
+      "IataDest": "LON",
+      "DepartDate": "5, June, 2023",
+      "ArriveDate": "6, June, 2023",
+      "note": "yujtos uhghyha usydrghu iygguysrg utuyrg odbfhs psrunvz fdyubsd yty6afgfa iyg87a bhguiytv ioiojahiurgha iuyrajba ozfvnzyte zbaguiya ioiuuiyatra"
+    },
+    {
+      "id": 4,
+      "Name": "Fly Emirates",
+      "DepartTime": "23:30",
+      "ArriveTime": "25:30",
+      "FromCity": "Dubia",
+      "ToCity": "Johannesburg",
+      "Category": "Economy",
+      "Price": "N10,000.00",
+      "IataOrig": "DXB",
+      "IataDest": "JNB",
+      "DepartDate": "25, April, 2023",
+      "ArriveDate": "15, April, 2023",
+      "note": "lorem ipsum is a random rext generator to fix in your paragraph when you dont have content for your ebsite "
+    },
+    {
+      "id": 5,
+      "Name": "Virgin Atlantic",
+      "DepartTime": "23:30",
+      "ArriveTime": "25:30",
+      "FromCity": "London",
+      "ToCity": "New York",
+      "Category": "First Class",
+      "Price": "N90,000.00",
+      "IataOrig": "LON",
+      "IataDest": "NYC",
+      "DepartDate": "31, Mar, 2023",
+      "ArriveDate": "1, April, 2023",
+      "note": "hka ekhfwe wef yfy g f f fk vkysvsdv sdv bdvygsdyg hgsdygasgyasdg asg vs vvsad asdgk a  gage ryagryigua yagrfygaifygae ygfygaiyga ygai"
+    }
+  ],
+  "cities": [
+    {
+      "id": 1,
+      "name": "Berlin",
+      "title": "Berlin, Germany",
+      "iata": "BER"
+    },
+    {
+      "id": 2,
+      "name": "London",
+      "title": "London, United Kindom",
+      "iata": "LON"
+    },
+    {
+      "id": 3,
+      "name": "Johannesburg",
+      "title": "Johannesburg, South Africa",
+      "iata": "JNB"
+    },
+    {
+      "id": 4,
+      "name": "New York",
+      "title": "New York, America",
+      "iata": "NYC"
+    },
+    {
+      "id": 5,
+      "name": "Dubai",
+      "title": "United Arab Emirates, Dubai",
+      "iata": "DXB"
+    }
+  ]
+}

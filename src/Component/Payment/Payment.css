@@ -1,0 +1,54 @@
+.payment {
+  background-color: #00afef;
+  padding-bottom: 6.5%;
+  height: 70vh;
+}
+.payment h2 {
+  text-align: center;
+}
+.payment_form {
+  background-color: white;
+  width: 25%;
+  padding: 20px 0px;
+  margin: 30px auto 0px auto;
+  border-radius: 15px;
+}
+.payment_form input {
+  padding: 8px 10px 10px 5px;
+  border: none;
+  width: 60%;
+  margin-left: 60px;
+  margin-bottom: 30px;
+  border: 1px solid #eee;
+  border-top-style: none;
+  border-right-style: none;
+  border-left-style: none;
+  border-bottom-style: groove;
+}
+
+.pay {
+  color: white;
+  margin-left: 50px;
+  background-color: #00afef;
+  padding: 10px;
+  width: 70%;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  border: none;
+}
+.pay_dir{
+    display: flex;
+    margin-left: 570px;
+    margin-top: 20px;
+}
+.paystack{
+  margin-left: 570px;
+  background-color: #eee;
+  border-radius: 20px;
+  width: 14%;
+  text-align: center;
+  opacity: 0.8;
+  border: 1px solid black;
+}
+

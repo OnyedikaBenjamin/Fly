@@ -1,0 +1,60 @@
+.forgot {
+  background-color: #00AFEF;
+  padding-bottom: 6.5%;
+  height: 70vh;
+}
+.forgot_text h1 {
+  padding-bottom: 60px;
+  padding-top: 10px;
+  color: black;
+  text-align: center;
+}
+.forgot_text h3 {
+  color: black;
+  text-align: center;
+  padding-top: 25px;
+}
+.forgot_form {
+  background-color: white;
+  width: 35%;
+  /* padding: 20px 0px; */
+  margin: 30px auto 0px auto;
+  border-radius: 25px;
+  padding-bottom: 10px;
+}
+
+.forgot_form h3 {
+  margin-top: 30px;
+  margin-left: 220px;
+}
+.forgot_form input {
+  padding: 8px 10px 10px 5px;
+  border: none;
+  width: 60%;
+  margin-left: 60px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  border: 1px solid #eee;
+  border-top-style: none;
+  border-right-style: none;
+  border-left-style: none;
+  border-bottom-style: groove;
+}
+.forgot_form h3 {
+  color:#00AFEF;
+}
+.bts{
+  color: white;
+  background-color: #00AFEF;
+  /* border-radius: 20px; */
+  width: 40%;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  margin-left: 150px;
+  margin-top: 40px;
+  border: none;
+  padding: 10px;
+}
+
+
