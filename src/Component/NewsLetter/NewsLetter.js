@@ -17,7 +17,7 @@ const NewsLetter = () => {
                 </div>
             </div>
             <div className="news_letter_field">
-                <input type="email" placeholder="achagoodness@gmail.com"/><button>Subscribe</button>
+                <input type="email" placeholder="udegbunamonyedikabenjamin@gamil.com"/><button>Subscribe</button>
             </div>
       </div>
     </div>
