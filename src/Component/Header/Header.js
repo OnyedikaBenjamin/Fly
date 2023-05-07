@@ -7,7 +7,7 @@ const Header = () => {
   return (
     <div className="header">
       <div className="header_topbar">
-            <marquee><p>For cheaper Virgin tickets, please call 09130946146</p></marquee>
+            <marquee><p>For cheaper Virgin tickets, please call +2349130946146</p></marquee>
       </div>
       <div className="header_navbar">
         <div className="header_navbar_text">
